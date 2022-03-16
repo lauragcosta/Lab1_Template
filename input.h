@@ -24,6 +24,8 @@
  */
 bool readInteger(int *ptVal);
 
+void printArray(int arr[], int arrLength);
+
 /**
  * @brief Read a double from standard input.
  * 
